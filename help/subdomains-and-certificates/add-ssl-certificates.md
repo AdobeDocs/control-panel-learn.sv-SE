@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 55%
+source-wordcount: '269'
+ht-degree: 38%
 
 ---
 
@@ -44,6 +44,18 @@ I videon nedan förklaras hur du skapar en begäran om certifikatsignering på k
 
 *Skapa en begäran om certifikatsignering (02:36 min)*
 
+>[!NOTE]
+>
+>Flera förbättringar har gjorts i CSR-genereringsprocessen:
+>
+>* När du genererar en CSR kan du nu välja en av de inkluderade underdomänerna som Gemensamt namn.
+>* Nu kan du kopiera CSR-sammanfattningen innan du genererar CSR.
+>* När en CSR har skapats kan du hämta den igen från jobbloggarna. Den här funktionen gäller inte certifikat som genererats före den här versionen.
+>
+>![Hämta CSR](/help/assets/download-csr.gif)
+>
+>Se [produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) om du vill veta mer.
+
 ### 2. Köpa SSL-certifikat
 
 När du har fått CSR måste du köpa SSL-certifikatet från en certifikatutfärdare som är godkänd av din organisation.
@@ -57,3 +69,5 @@ I videon nedan förklaras hur du installerar SSL-certifikat i [!UICONTROL Contro
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *Installera SSL-certifikat (01:25 min)*
+
+
