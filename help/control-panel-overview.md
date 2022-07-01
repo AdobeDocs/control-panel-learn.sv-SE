@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 9aab3744b4bee03f78b4d301edc98efd13922647
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 84%
+source-wordcount: '290'
+ht-degree: 76%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 84%
 Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 
 ## Nyheter
+
+* **[Kontrollpanelen för hybridvärdmodeller](/help/control-panel-for-hybrid-hosting-models.md)**
+
+   *Lär dig hur du aktiverar Kontrollpanelen för hybridvärdmodeller i Adobe Campaign, öppnar Kontrollpanelen och låser upp nyckelfunktioner.*
 
 * **[Övervaka arbetsflöden](/help/performance-monitoring/monitor-workflows.md)**
 
