@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '122'
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 # Kontrollpanelen i Adobe Campaign – självstudiekurser {#control-panel}
 
 + [Kontrollpanelen](/help/control-panel-overview.md)
-+ [Kom igång med Kontrollpanelen](/help/get-started-with-control-panel.md)
++ [Kom igång med kontrollpanelen](/help/get-started-with-control-panel.md)
 + [Kontrollpanelen för hybridvärdmodeller](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-hantering {#sftp-management}
    + [Övervaka serverkapacitet](/help/sftp-management/monitor-server-capacity.md)
-   + [IP-intervall för Tillåtelselista](/help/sftp-management/allowlist-ip-range.md)
+   + [IP-intervall i tillåtelselista](/help/sftp-management/allowlist-ip-range.md)
    + [Generera en SSH-nyckel](/help/sftp-management/generate-ssh-key.md)
    + [Ansluta till en SFTP-server](/help/sftp-management/connect-to-sftp-server.md)
 + Underdomäner och certifikat {#subdomains-and-certificates}
@@ -30,7 +30,7 @@ ht-degree: 0%
    + [Lägg till SSL-certifikat](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Hantera Google TXT-poster](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Instansinställningar {#instance-settings}
-   + [IP-adresser i Tillåtelselista](/help/instance-settings/allowlist-ip-adresses.md)
+   + [IP-adresser i tillåtelselista](/help/instance-settings/allowlist-ip-adresses.md)
    + [Lägg till URL-behörigheter](/help/instance-settings/add-url-permissions.md)
    + Hantera GPG-nycklar {#gpg-key-management}
       + [Hantera GPG-nycklar – översikt](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 0%
 + Övervaka prestanda {#performance-monitoring}
    + [Övervaka databaser](/help/performance-monitoring/monitor-databases.md)
    + [Övervaka arbetsflöden](/help/performance-monitoring/monitor-workflows.md)
-   + [Bildskärmens genomströmning och fördröjning](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [Kontrollpanelen för felsökning](/help/trouble-shooting.md)
+   + [Övervaka genomflöden och fördröjning](/help/performance-monitoring/monitor-throughputs-and-latency.md)
++ [Felsöka kontrollpanelen](/help/trouble-shooting.md)
