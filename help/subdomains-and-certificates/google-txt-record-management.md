@@ -1,6 +1,6 @@
 ---
 title: Hantera Google TXT-poster
-description: Lär dig hur du lägger till verifieringsposter för Google TXT-webbplatser i underdomäner som används för att skicka e-post till GMAIL-adresser via Kontrollpanelen för Campaign.
+description: Läs mer om hur du lägger till Google TXT-poster för webbplatsverifiering i underdomäner som används för att skicka e-postmeddelanden till GMAIL-adresser via kontrollpanelen i Campaign.
 feature: Control Panel
 kt: 4744
 thumbnail: 32369.jpg
@@ -11,16 +11,16 @@ role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
 # Hantera [!UICONTROL Google TXT record]
 
-För att säkerställa höga inkorgstariffer och låga skräppostfrekvenser kräver vissa tjänster som Google att du lägger till en TXT-post i domäninställningen för att verifiera att du äger domänen. TXT-poster är en typ av DNS-poster som används för att tillhandahålla textinformation om en domän som kan läsas av externa källor.
+För att säkerställa ett högt antal verkliga e-postmeddelanden och ett lågt antal skräppostmeddelanden kräver vissa tjänster såsom Google att du lägger till en TXT-post i domäninställningarna för att verifiera att du faktiskt äger domänen. TXT-poster är en typ av DNS-poster som används för att tillhandahålla textinformation om en domän som kan läsas av externa källor.
 
-Lär dig hur du lägger till [!UICONTROL Google TXT] webbplatsverifieringsposter till alla dina underdomäner som används för att skicka e-post till [!DNL GMAIL] adresser med [!UICONTROL Campaign Control Panel].
+Läs mer om hur du lägger till [!UICONTROL Google TXT]-poster för webbplatsverifiering i alla underdomäner som används för att skicka e-post till [!DNL GMAIL]-adresser via [!UICONTROL Campaign Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
