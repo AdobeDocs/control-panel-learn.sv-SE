@@ -1,6 +1,6 @@
 ---
-title: Kom igång med Kontrollpanelen
-description: Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
+title: Kom igång med kontrollpanelen
+description: Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med den.
 feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
@@ -12,24 +12,24 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # Kom igång med [!UICONTROL Control Panel] {#control-panel}
 
 >[!CAUTION]
-> Distributionsrestriktioner tillämpas i Campaign v7. [Läs mer](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
+> Distributionsrestriktioner tillämpas i Campaign v7. [Läs mer](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=sv#v7-restrictions)
 
-[!UICONTROL Control Panel] gör att Adobe Campaign-administratörer kan övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera [!DNL SFTP] lagring efter instans, hantera [!DNL GPG] eller [!UICONTROL subdomains] och [!UICONTROL certificates].
+[!UICONTROL Control Panel] tillåter Adobe Campaign-administratörer att övervaka viktiga tillgångar och utföra administrativa uppgifter, till exempel att hantera [!DNL SFTP]-lagring, [!DNL GPG]-nycklar eller [!UICONTROL subdomains] och [!UICONTROL certificates].
 
-I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
+I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med den.
 
 ## Komma åt [!UICONTROL Control Panel]
 
-Gå till Kontrollpanelen genom att gå till Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Gå till Kontrollpanelen genom att öppna Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
