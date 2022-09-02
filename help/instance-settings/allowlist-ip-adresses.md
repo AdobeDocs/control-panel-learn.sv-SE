@@ -1,5 +1,5 @@
 ---
-title: IP-adresser i Tillåtelselista
+title: IP-adresser i tillåtelselista
 description: Lär dig hur du lägger till ett IP-intervall i Adobe Campaign-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
 feature: Control Panel
 kt: 3479
@@ -12,12 +12,12 @@ level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 59%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# IP-adresser i Tillåtelselista
+# IP-adresser i tillåtelselista
 
 Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåta listning av IP-adressintervall. Som standard är en instans i Adobe Campaign endast tillgänglig från specifika IP-adresser. En IP-adress måste därför tillåtslista:
 

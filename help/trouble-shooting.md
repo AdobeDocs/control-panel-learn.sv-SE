@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -54,7 +54,7 @@ Administratören måste lägga till användaren i Produktprofil _Campaign-xxx-Ad
 ### Användbar dokumentation
 
 * [Lär känna kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
-* [Hantera behörigheter i [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
+* [Hantera behörigheter i [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Upprätta en anslutning till en SFTP-server (klient eller API)
 
@@ -66,4 +66,4 @@ För anslutning till SFTP-servrar krävs:
 
 ### Användbar dokumentation {#helpful-docs}
 
-* [Logga in på SFTP-servern](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
+* [Logga in på SFTP-servern](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
