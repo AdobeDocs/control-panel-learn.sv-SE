@@ -9,16 +9,18 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+source-git-commit: f6eefe5c95532c38d32275070416b960b208ad10
+workflow-type: ht
 source-wordcount: '0'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Kontrollpanelen – översikt
 
 Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+
+<div id="whats-new-section">
 
 ## Nyheter
 
@@ -35,6 +37,17 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
    *Läs mer om hur du övervakar leveransgenomflöden och fördröjningar för transaktionsmeddelanden i kampanjinstansen.*
 
 Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=sv) för mer information om de senaste produktversionerna.
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personalens val
 
@@ -81,6 +94,8 @@ Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/u
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Ytterligare resurser
 
