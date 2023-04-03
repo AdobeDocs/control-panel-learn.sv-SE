@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '149'
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -38,4 +38,4 @@ För att ansluta till SFTP-servrar krävs:
 
 I den här videon förklaras hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat på kontrollpanelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12&learn=0n)
