@@ -9,9 +9,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '320'
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -43,18 +43,18 @@ Administratören måste lägga till användaren i Produktprofil _Campaign-xxx-Ad
 
 ### Användbara videor
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=0n)
 
 *Kontrollera ett IMS-organisations-ID (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=0n)
 
 *Så lägger du till en administratör i produktprofilen administratörer för att kunna använda [!UICONTROL Control panel] (01:03 min)*
 
 ### Användbar dokumentation
 
 * [Lär känna kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
-* [Hantera behörigheter i [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Hantera behörigheter i [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
 
 ## Upprätta en anslutning till en SFTP-server (klient eller API)
 
@@ -66,4 +66,4 @@ För anslutning till SFTP-servrar krävs:
 
 ### Användbar dokumentation {#helpful-docs}
 
-* [Logga in på SFTP-servern](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Logga in på SFTP-servern](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
