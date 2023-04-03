@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 82%
@@ -34,4 +34,4 @@ För att få åtkomst till SFTP-hantering på kontrollpanelen ska du gå du till
 
 Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&learn=0n)

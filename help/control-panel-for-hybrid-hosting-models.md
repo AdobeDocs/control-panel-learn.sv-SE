@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 89%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Läs mer om hur du aktiverar kontrollpanelen för hybridvärdmodeller av Adobe Campaign, får åtkomst till kontrollpanelen och låser upp nyckelfunktioner.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12&learn=0n)
 
-Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=sv).
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html).

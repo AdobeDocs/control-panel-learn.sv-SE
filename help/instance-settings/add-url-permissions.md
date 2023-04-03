@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
-source-git-commit: 6909a356117e76798fd31ab721ffbd116ea2af68
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 69%
@@ -21,6 +21,6 @@ ht-degree: 69%
 
 Lär dig hur du upprättar en anslutning från din [!DNL Adobe Campaign]-instans till en extern URL.
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12&learn=0n)
 
 Mer information finns på [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).

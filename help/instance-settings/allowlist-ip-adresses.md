@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 62%
 
 ---
 
@@ -36,6 +36,6 @@ eller
 
 Lär dig hur du lägger till ett IP-intervall i Adobe Campaign-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
 
 Mer information om IP-adresser finns i [detaljerad produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=sv).

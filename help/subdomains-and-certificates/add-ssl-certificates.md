@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 62%
@@ -40,7 +40,7 @@ CSR (Certificate Signing Request) krävs för köp av ett SSL-certifikat. Den m�
 
 I videon nedan förklaras hur du skapar en begäran om certifikatsignering på kontrollpanelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
 
 *Skapa en begäran om certifikatsignering (02:36 min)*
 
@@ -66,7 +66,7 @@ När du har fått SSL-certifikatet måste det installeras för de underdomäner 
 
 I videon nedan förklaras hur du installerar SSL-certifikat i [!UICONTROL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
 
 *Installera SSL-certifikat (01:25 min)*
 
