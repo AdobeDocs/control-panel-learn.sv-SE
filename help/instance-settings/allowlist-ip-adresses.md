@@ -1,6 +1,6 @@
 ---
 title: IP-adresser i tillåtelselista
-description: Lär dig hur du lägger till ett IP-intervall i Adobe Campaign-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
+description: Lär dig hur du lägger till ett IP-intervall i Adobe Campaign-instansens tillåtelselista och hur du tar bort dem från tillåtelselistan med hjälp av kontrollpanelen.
 feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
@@ -11,15 +11,15 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # IP-adresser i tillåtelselista
 
-Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåta listning av IP-adressintervall. Som standard är en instans i Adobe Campaign endast tillgänglig från specifika IP-adresser. En IP-adress måste därför tillåtslista:
+Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåta listning av IP-adressintervall. Som standard är en instans i Adobe Campaign endast tillgänglig från specifika IP-adresser. En IP-adress måste därför tillåtelselistas:
 
 * för att ge åtkomst till instansen i [!DNL Campaign] från den här IP-adressen
 * för att ansluta ett API till meddelandecentret eller en marknadsföringsinstans
@@ -34,8 +34,8 @@ eller
 
 ## Lägg till ett IP-intervall till instansens tillåtelselista
 
-Lär dig hur du lägger till ett IP-intervall i Adobe Campaign-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
+Lär dig hur du lägger till ett IP-intervall i Adobe Campaign-instansens tillåtelselista och hur du tar bort dem från tillåtelselistan med hjälp av kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
 
-Mer information om IP-adresser finns i [detaljerad produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=sv).
+För mer information om IP och tillåtelselistning, se [den detaljerade produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=sv).
