@@ -1,6 +1,6 @@
 ---
-title: Lägg till SSL-certifikat
-description: Lär dig hur du lägger till SSL-certifikat för att skydda dina underdomäner.
+title: Lägga till SSL-certifikat
+description: Läs mer om hur du lägger till SSL-certifikat för att skydda dina underdomäner.
 feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -11,13 +11,13 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# Lägg till SSL-certifikat
+# Lägga till SSL-certifikat
 
 Med [!UICONTROL Control Panel] i Adobe Campaign kan du lägga till SSL-certifikat för att skydda underdomänerna.
 
@@ -36,7 +36,7 @@ Att lägga till SSL-certifikat kräver tre steg:
 
 ### 1. Skapa en begäran om certifikatsignering
 
-CSR (Certificate Signing Request) krävs för köp av ett SSL-certifikat. Den måste genereras för instansen och de underdomäner som du vill skydda.
+Begäran om certifikatsignering (CSR) krävs för köp av ett SSL-certifikat. Den måste genereras för instansen och underdomänerna du planerar att säkra.
 
 I videon nedan förklaras hur du skapar en begäran om certifikatsignering på kontrollpanelen.
 
@@ -54,15 +54,15 @@ I videon nedan förklaras hur du skapar en begäran om certifikatsignering på k
 >
 >![Hämta CSR](/help/assets/download-csr.gif)
 >
->Se [produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) om du vill veta mer.
+>Se [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=sv) om du vill veta mer.
 
 ### 2. Köpa SSL-certifikat
 
-När du har fått CSR måste du köpa SSL-certifikatet från en certifikatutfärdare som är godkänd av din organisation.
+Efter att ha erhållit CSR måste du köpa SSL-certifikatet från en certifikatutfärdare som godkänts av din organisation.
 
 ### 3. Installera SSL-certifikat
 
-När du har fått SSL-certifikatet måste det installeras för de underdomäner som du planerar att skydda.
+När du har erhållit SSL-certifikatet måste det installeras för de underdomäner du planerar att säkra.
 
 I videon nedan förklaras hur du installerar SSL-certifikat i [!UICONTROL Control Panel].
 
