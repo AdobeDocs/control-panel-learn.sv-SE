@@ -2,7 +2,7 @@
 title: Kom igång med kontrollpanelen
 description: Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med den.
 feature: Control Panel
-kt: 6388
+jira: KT-6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
@@ -33,10 +33,10 @@ Gå till Kontrollpanelen genom att öppna Experience Cloud Home: [https://experi
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
-   eller
+  eller
 * **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > kortet **[!UICONTROL Control Panel]**
 
-   eller
+  eller
 
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
