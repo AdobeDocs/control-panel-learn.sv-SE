@@ -2,7 +2,7 @@
 title: Tillåtelselista ett IP-intervall
 description: Läs mer om hur du kan lägga till ett IP-adressintervall till en tillåtelselista.
 feature: Control Panel
-kt: 6430
+jira: KT-6430
 thumbnail: 41775.jpg
 doc-type: feature video
 audience: administrator
@@ -11,9 +11,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: bb07c575-a4db-4485-aae8-7c249c8d183b
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
-source-wordcount: '66'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
