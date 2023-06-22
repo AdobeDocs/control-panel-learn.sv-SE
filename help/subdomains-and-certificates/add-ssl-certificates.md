@@ -2,7 +2,7 @@
 title: Lägga till SSL-certifikat
 description: Läs mer om hur du lägger till SSL-certifikat för att skydda dina underdomäner.
 feature: Control Panel
-kt: 4219
+jira: KT-4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
-source-wordcount: '269'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ För att få åtkomst till hantering av underdomäner på kontrollpanelen ska du
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > kortet **[!UICONTROL Control Panel]** > kortet **[!UICONTROL Subdomains & Certificates]**
 
-   eller
+  eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Stegvis lägga till SSL-certifikat
@@ -55,6 +55,7 @@ I videon nedan förklaras hur du skapar en begäran om certifikatsignering på k
 >![Hämta CSR](/help/assets/download-csr.gif)
 >
 >Se [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=sv) om du vill veta mer.
+>
 
 ### 2. Köpa SSL-certifikat
 
