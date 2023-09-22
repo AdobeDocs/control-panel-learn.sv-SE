@@ -11,10 +11,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 97%
 
 ---
 
@@ -35,4 +35,4 @@ För att få åtkomst till hantering av underdomäner via [!UICONTROL Control Pa
 
 Lär dig hur du övervakar lagringskapaciteten för dina SFTP-servrar.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){trancript=true}
