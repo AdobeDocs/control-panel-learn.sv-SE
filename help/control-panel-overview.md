@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 100%
 
@@ -26,16 +26,13 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
 ## Nyheter
 
 * **[Kontrollpanelen för hybridvärdmodeller](/help/control-panel-for-hybrid-hosting-models.md)**
-
-   *Läs mer om hur du aktiverar kontrollpanelen för hybridvärdmodeller av Adobe Campaign, får åtkomst till kontrollpanelen och låser upp nyckelfunktioner.*
+  *Läs mer om hur du aktiverar kontrollpanelen för hybridvärdmodeller av Adobe Campaign, får åtkomst till kontrollpanelen och låser upp nyckelfunktioner.*
 
 * **[Övervaka arbetsflöden](/help/performance-monitoring/monitor-workflows.md)**
-
-   *Läs mer om hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och var du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
+  *Läs mer om hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och var du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
 
 * **[Övervaka genomflöden och fördröjning](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-
-   *Läs mer om hur du övervakar leveransgenomflöden och fördröjningar för transaktionsmeddelanden i kampanjinstansen.*
+  *Läs mer om hur du övervakar leveransgenomflöden och fördröjningar för transaktionsmeddelanden i kampanjinstansen.*
 
 Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=sv) för mer information om de senaste produktversionerna.
 
