@@ -12,18 +12,18 @@ role: Admin
 level: Experienced
 exl-id: 49e2dae4-f583-40c3-b388-5333932f5084
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
 # Övervaka databaser
 
-Alla resurser, arbetsflöden och data för Campaign-instansen lagras i databasen. Databasen når sin maximala kapacitet kan orsaka problem med instansen (oförmåga att logga in, skicka e-post och så vidare). Därför är det viktigt att du regelbundet övervakar instansens databaser för att säkerställa optimal prestanda.
+Alla resurser, arbetsflöden och data för Campaign-instansen lagras i databasen. Om databasen når sin maximala kapacitet kan det leda till problem med din instans (oförmåga att logga in, skicka e-post, och så vidare). Därför är det viktigt att du regelbundet övervakar instansens databaser för att säkerställa optimal prestanda.
 
-Lär dig hur du övervakar databasanvändningen för dina instanser med [!DNL Control Panel].
+Läs mer om hur du övervakar databasanvändningen för dina instanser med [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
 
-Mer information om databasövervakning finns i [produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
+För mer information om databasövervakning se [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=sv).
