@@ -11,20 +11,20 @@ role: Admin
 level: Experienced
 exl-id: 8b2ff6b2-6836-4ab1-953b-2a9c81ec576d
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # Kryptera data med en GPG-nyckel
 
-Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrollpanelen
+Läs mer om hur du exporterar data med en GPG-nyckel som installerats på kontrollpanelen
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}
