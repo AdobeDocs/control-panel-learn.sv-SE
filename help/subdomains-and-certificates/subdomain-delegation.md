@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ eller
 
 I videon nedan visas hur du delegerar underdomäner.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
 
 *Delegera underdomäner (05:07 min)*
 
