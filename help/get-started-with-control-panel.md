@@ -12,9 +12,9 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -48,14 +48,14 @@ Slutför följande förhandskrav innan du börjar:
 
 Följande video beskriver var du kan leta upp din instans [!DNL IMS org ID]..
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### Administratörsrättigheter
 
 Administratörsrättigheter krävs för åtkomst till [!UICONTROL Control Panel].
 I följande video förklaras hur du lägger till en administratör i en instans i Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 [Läs mer](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=sv#discover-control-panel) om att hantera behörigheter.
 
