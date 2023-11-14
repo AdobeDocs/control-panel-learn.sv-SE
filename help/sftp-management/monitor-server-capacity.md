@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,6 +33,6 @@ För att få åtkomst till hantering av underdomäner via [!UICONTROL Control Pa
 
 ## Övervaka serverkapacitet, [!UICONTROL allowlist] IP-adresser och lägga till SSH-nycklar
 
-Lär dig hur du övervakar lagringskapaciteten för dina SFTP-servrar.
+Läs mer om hur du övervakar lagringskapaciteten för dina SFTP-servrar.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
