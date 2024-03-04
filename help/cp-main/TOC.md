@@ -1,5 +1,5 @@
 ---
-user-guide-title: Självstudiekurser för Kontrollpanelen i Adobe Campaign
+user-guide-title: Självstudiekurser om Kontrollpanelen i Adobe Campaign
 user-guide-description: Läs om hur du övervakar nyckelresurser för dina Adobe Campaign-instanser och utför administrativa uppgifter på Kontrollpanelen.
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 index: true
@@ -8,17 +8,17 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
+source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
 
 # Självstudiekurser för Kontrollpanelen i Adobe Campaign {#tutorials}
 
-+ [Självstudiekurser på Kontrollpanelen](/help/control-panel-overview.md)
++ [Självstudiekurser om kontrollpanelen](/help/control-panel-overview.md)
 + [Kom igång med kontrollpanelen](/help/get-started-with-control-panel.md)
 + [Kontrollpanelen för hybridvärdmodeller](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-hantering {#sftp-management}
