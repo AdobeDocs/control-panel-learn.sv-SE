@@ -5,15 +5,16 @@ feature: Control Panel
 jira: KT-4115
 thumbnail: 31390.jpg
 doc-type: feature video
+last-substantial-update: 2024-03-18T00:00:00Z
 activity: use
 team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 88%
 
 ---
 
@@ -25,8 +26,7 @@ Med [!UICONTROL Control Panel] i Adobe Campaign kan du fullständigt delegera en
 
 För att få åtkomst till hantering av underdomäner i [!UICONTROL Control Panel] ska du gå till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > kortet **[!UICONTROL Control Panel]** > kortet **Underdomäner och certifikat**
-eller
+* [Experience Cloud - startsida](https://experience.adobe.com/#/home) > Lösningsväljare: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** kort > **Underdomäner och certifikat** kort eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Så här delegerar du underdomäner
@@ -34,7 +34,5 @@ eller
 I videon nedan visas hur du delegerar underdomäner.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
-
-*Delegera underdomäner (05:07 min)*
 
 Mer information om hur du förnyar en underdomäns SSL-certifikat finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=sv).
