@@ -9,14 +9,14 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Självstudiekurser för Kontrollpanelen i Adobe Campaign {#tutorials}
+# Självstudiekurser om kontrollpanelen i Adobe Campaign {#tutorials}
 
 + [Självstudiekurser om kontrollpanelen](/help/control-panel-overview.md)
 + [Kom igång med kontrollpanelen](/help/get-started-with-control-panel.md)

@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,8 @@ Med [!UICONTROL Control Panel] i Adobe Campaign kan du fullständigt delegera en
 
 För att få åtkomst till hantering av underdomäner i [!UICONTROL Control Panel] ska du gå till:
 
-* [Experience Cloud - startsida](https://experience.adobe.com/#/home) > Lösningsväljare: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** kort > **Underdomäner och certifikat** kort eller
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** kort **> Underdomäner och certifikat**kort 
+eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Så här delegerar du underdomäner
