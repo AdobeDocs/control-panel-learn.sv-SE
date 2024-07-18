@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '184'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 94%
 
 ---
 
@@ -28,7 +28,7 @@ Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att
 
 Om du vill få åtkomst till hantering av underdomäner på kontrollpanelen måste du gå du till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > kortet **[!UICONTROL Control Panel]** > kortet **Inställningar för instanser**
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
 eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
