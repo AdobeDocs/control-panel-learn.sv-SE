@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar för transaktionsmeddelanden i instanser av Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444741/?learn=on&captions=swe){transcript=true}
 
 ## Ytterligare resurser
 

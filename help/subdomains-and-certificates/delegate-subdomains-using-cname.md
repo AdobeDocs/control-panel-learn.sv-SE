@@ -23,4 +23,4 @@ Om du vill kunna skicka e-postmeddelanden eller publicera landningssidor med Ado
 
 Lär dig hur du konfigurerar och skickar in en underdomän med CNAMEs i kontrollpanelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450128?learn=on&captions=swe){transcript=true}

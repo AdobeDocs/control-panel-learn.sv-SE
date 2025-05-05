@@ -34,6 +34,6 @@ eller
 
 I videon nedan visas hur du delegerar underdomäner.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430246?learn=on&captions=swe){transcript=true}
 
 Mer information om hur du förnyar en underdomäns SSL-certifikat finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=sv).

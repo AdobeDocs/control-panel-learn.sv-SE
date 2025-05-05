@@ -24,4 +24,4 @@ Om du vill ansluta till en server via ett klientprogram eller ett API måste du 
 
 Läs mer om hur du kan lägga till ett IP-adressintervall till en tillåtelselista.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444640?learn=on&captions=swe){transcript=true}

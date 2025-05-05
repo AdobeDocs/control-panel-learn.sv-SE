@@ -24,6 +24,6 @@ Alla resurser, arbetsflöden och data för Campaign-instansen lagras i databasen
 
 Läs mer om hur du övervakar databasanvändningen för dina instanser med [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448844?learn=on&captions=swe){transcript=true}
 
 För mer information om databasövervakning se [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=sv).
