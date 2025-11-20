@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -34,12 +34,12 @@ ht-degree: 100%
 + Instansinställningar {#instance-settings}
    + [IP-adresser i tillåtelselista](/help/instance-settings/allowlist-ip-adresses.md)
    + [Lägg till URL-behörigheter](/help/instance-settings/add-url-permissions.md)
-   + Hantera GPG-nycklar {#gpg-key-management}
+   + GPG-nyckelhantering {#gpg-key-management}
       + [Hantera GPG-nycklar – översikt](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Generera och installera GPG-nycklar för datakryptering](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [Kryptera data med en GPG-nyckel](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Dekryptera data](/help/instance-settings/gpg-key-management/decrypt-data.md)
-+ Övervaka prestanda {#performance-monitoring}
++ Prestandaövervakning {#performance-monitoring}
    + [Övervaka databaser](/help/performance-monitoring/monitor-databases.md)
    + [Övervaka arbetsflöden](/help/performance-monitoring/monitor-workflows.md)
    + [Övervaka genomflöden och fördröjning](/help/performance-monitoring/monitor-throughputs-and-latency.md)
