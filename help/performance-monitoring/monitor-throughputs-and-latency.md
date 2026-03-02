@@ -26,7 +26,7 @@ Lär dig hur ni övervakar leveransflöden och fördröjningar för transaktions
 
 ## Ytterligare resurser
 
-* [Dokumentation på kontrollpanelen om dataflöde och fördröjningsövervakning](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=en#)
+* [Dokumentation på kontrollpanelen om dataflöde och fördröjningsövervakning](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=sv-SE#)
 * [Instrumentpaneler för OOTB-leverans](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=en)
-* [OTB Access-transaktionsrapporter (endast Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=en)
-* [Bästa praxis för leverans](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [OTB Access-transaktionsrapporter (endast Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=sv-SE)
+* [Bästa praxis för leverans](https://experienceleague.adobe.com/sv/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
