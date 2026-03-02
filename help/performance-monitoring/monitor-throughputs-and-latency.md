@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lär dig hur ni övervakar leveransflöden och fördröjningar för transaktionsmeddelanden i er kampanjinstans.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444741/?captions=swe&learn=on){transcript=true}
 
 ## Ytterligare resurser
 
